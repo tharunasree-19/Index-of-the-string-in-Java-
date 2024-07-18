@@ -1,0 +1,9 @@
+public class Practice{
+    public static void main(String args[]){
+        String name = "Tharuna Sree Golla";
+        String college = "Engineering College";
+        System.out.println("The Index of the String: " + name.indexOf("Sree"));
+        System.out.println("The Index of the String: " + college.indexOf("Engineering"));
+        
+    }
+}
